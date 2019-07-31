@@ -2,7 +2,7 @@
     "name": "vuejs-extension-pack",
     "displayName": "Vue.js Extension Pack",
     "description": " VSCode popular extensions for Vue.js Development",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author": "karatejb",
     "publisher": "karatejb",
     "icon": "icon.png",

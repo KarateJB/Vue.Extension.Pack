@@ -6,6 +6,6 @@ This extension pack includes the most popular Vue.js and Frontend Development ex
 
 ## How to create VSCODE Extension Pack?
 
-See []()
+See [[VSCODE] Create and Publish Extension Pack](https://karatejb.blogspot.com/2019/07/vscode-create-and-publish-extension-pack.html)
 
 **Enjoy!**
