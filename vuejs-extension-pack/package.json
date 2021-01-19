@@ -1,45 +1,46 @@
 {
-    "name": "vuejs-extension-pack",
-    "displayName": "Vue.js Extension Pack",
-    "description": " VSCode popular extensions for Vue.js Development",
-    "version": "0.0.5",
-    "author": "karatejb",
-    "publisher": "karatejb",
-    "icon": "icon.png",
-    "homepage": "https://karatejb.blogspot.com",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/KarateJB/Vue.Extension.Pack.git"
-      },
-    "engines": {
-        "vscode": "^1.36.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "aaron-bond.better-comments", 
-        "abusaidm.html-snippets", 
-        "alefragnani.Bookmarks", 
-        "antfu.vue-i18n-ally",
-        "christian-kohler.path-intellisense", 
-        "codezombiech.gitignore", 
-        "dariofuzinato.vue-peek", 
-        "DavidAnson.vscode-markdownlint", 
-        "donjayamanne.githistory", 
-        "ecmel.vscode-html-css", 
-        "eg2.vscode-npm-script", 
-        "esbenp.prettier-vscode", 
-        "formulahendry.auto-close-tag", 
-        "Gruntfuggly.todo-tree", 
-        "joelday.docthis", 
-        "ms-vscode.vscode-typescript-tslint-plugin", 
-        "msjsdiag.debugger-for-chrome", 
-        "octref.vetur", 
-        "richie5um2.vscode-sort-json", 
-        "steoates.autoimport", 
-        "wayou.vscode-todo-highlight", 
-        "xabikos.JavaScriptSnippets"
-    ],
-    "license": "MIT"
+  "name": "vuejs-extension-pack",
+  "displayName": "Vue.js Extension Pack",
+  "description": " VSCode popular extensions for Vue.js Development",
+  "version": "0.0.7",
+  "author": "karatejb",
+  "publisher": "karatejb",
+  "icon": "icon.png",
+  "homepage": "https://karatejb.blogspot.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KarateJB/Vue.Extension.Pack.git"
+  },
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "abusaidm.html-snippets",
+    "adpyke.codesnap",
+    "alefragnani.Bookmarks",
+    "antfu.vue-i18n-ally",
+    "christian-kohler.path-intellisense",
+    "codezombiech.gitignore",
+    "dariofuzinato.vue-peek",
+    "DavidAnson.vscode-markdownlint",
+    "donjayamanne.githistory",
+    "ecmel.vscode-html-css",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "Gruntfuggly.todo-tree",
+    "joelday.docthis",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.debugger-for-chrome",
+    "octref.vetur",
+    "richie5um2.vscode-sort-json",
+    "steoates.autoimport",
+    "wayou.vscode-todo-highlight",
+    "xabikos.JavaScriptSnippets"
+  ],
+  "license": "MIT"
 }

@@ -1,6 +1,6 @@
 # Vue-Extension-Pack
 
-Version: `0.0.5`
+Version: `0.0.7`
 
 This extension pack includes the most popular Vue.js and Frontend Development extensions.
 
@@ -26,6 +26,6 @@ This extension pack includes the most popular Vue.js and Frontend Development ex
 - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 
 **Enjoy!**
