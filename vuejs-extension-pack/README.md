@@ -1,6 +1,6 @@
 # Vue-Extension-Pack
 
-Version: `0.0.7`
+Version: `0.0.9`
 
 This extension pack includes the most popular Vue.js and Frontend Development extensions.
 
@@ -18,7 +18,7 @@ This extension pack includes the most popular Vue.js and Frontend Development ex
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-- [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+- [Document This](https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis)
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
@@ -27,5 +27,6 @@ This extension pack includes the most popular Vue.js and Frontend Development ex
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+- [Code Ace Jumper](https://marketplace.visualstudio.com/items?itemName=lucax88x.codeacejumper)
 
 **Enjoy!**

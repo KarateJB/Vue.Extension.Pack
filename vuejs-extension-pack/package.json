@@ -2,7 +2,7 @@
   "name": "vuejs-extension-pack",
   "displayName": "Vue.js Extension Pack",
   "description": " VSCode popular extensions for Vue.js Development",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "author": "karatejb",
   "publisher": "karatejb",
   "icon": "icon.png",
@@ -33,14 +33,15 @@
     "esbenp.prettier-vscode",
     "formulahendry.auto-close-tag",
     "Gruntfuggly.todo-tree",
-    "joelday.docthis",
+    "oouo-diogo-perdigao.docthis",
     "ms-vscode.vscode-typescript-tslint-plugin",
     "msjsdiag.debugger-for-chrome",
     "octref.vetur",
     "richie5um2.vscode-sort-json",
     "steoates.autoimport",
     "wayou.vscode-todo-highlight",
-    "xabikos.JavaScriptSnippets"
+    "xabikos.JavaScriptSnippets",
+    "lucax88x.codeacejumper"
   ],
   "license": "MIT"
 }
